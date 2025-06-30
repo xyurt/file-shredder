@@ -1,4 +1,4 @@
-**File Shredder**
+#File Shredder
 Arguments:
   file-shredder.exe *[FILENAME] *[MAX_THREAD] *[CHUNK_SIZE_MB]
 
